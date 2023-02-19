@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "nitropack dev",
+    "build": "nitropack build",
+    "prepare": "nitropack prepare"
+  },
+  "devDependencies": {
+    "nitropack": "^2.2.2"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
